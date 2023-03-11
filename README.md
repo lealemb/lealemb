@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hello there 👋
 🔭 I’m currently working on web development in SYNC INTERN'S<br>👯 I’m looking to collaborate with friends here<br>🌱 I’m currently learning react native<br>📫 How to reach me lealemb84@gmail.com<br>💬 Ask me about bitcoin<br>⚡ Fun fact I think I am funny<br> 👨‍💻 Interest   coding and Football
 
 
@@ -17,13 +17,6 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Le_omb10)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=lealemb&icon=0&color=0)](https://visitcount.itsvg.in)
 
