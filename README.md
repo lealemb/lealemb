@@ -1,5 +1,5 @@
 #  Hello there 👋
-🔭 I’m currently working on web development in SYNC INTERN'S<br>👯 I’m looking to collaborate with friends here<br>🌱 I’m currently learning react native<br>📫 How to reach me lealemb84@gmail.com<br>💬 Ask me about bitcoin<br>⚡ I love football ⚽️ <br> 
+🔭 I’m currently working on web development in SYNC INTERN'S<br>👯 I’m looking to collaborate with friends here<br>🌱 I’m currently learning react native<br>📫 How to reach me lealemb84@gmail.com<br>⚡ I love football ⚽️ <br> 
 
 
 ## 🌐 Socials:
