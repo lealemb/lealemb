@@ -1,5 +1,5 @@
 #  Hello there 👋
-👯 I’m looking to collaborate with friends here<br>🌱 I’m currently learning Angular_<br>📫 How to reach me lealemb84@gmail.com<br>
+👯 I’m looking to collaborate with friends here<br>🌱 I’m currently learning .._<br>📫 How to reach me lealemb84@gmail.com<br>
 
 
 ## 🌐 Socials:
