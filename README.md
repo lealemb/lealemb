@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **lealemb84@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF3hCc69o0/uZlcBfbF_LLNfRRlLYoIkg/view?utm_content=DAF3hCc69o0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3hCc69o0/uZlcBfbF_LLNfRRlLYoIkg/view?utm_content=DAF3hCc69o0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
 - ⚡ Fun fact **I can debug code faster than I can find matching socks!**
 
 <h3 align="left">Connect with me:</h3>
