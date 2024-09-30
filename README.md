@@ -1,4 +1,3 @@
-![Full Stack Developer](https://media.licdn.com/dms/image/D4D12AQHNKs-i9UbPBA/article-cover_image-shrink_720_1280/0/1671571810050?e=2147483647&v=beta&t=dwKF2xuXiYH3kfP7M20_KFWB8iuKnQIf3jq-_RHvW_Q)
 <h1 align="center">Hi 👋, I'm Lealem</h1>
 <h3 align="center"> Fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
