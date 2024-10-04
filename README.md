@@ -13,10 +13,8 @@
 
 - 🤝 I’m looking for help with **Improving Laravel API Development Skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lealemb](https://github.com/lealemb)
-
-- 📫 How to reach me **lealemb84@gmail.com**
-
+- 👨‍💻 All of my projects are available at [**SeeMyProject**](https://github.com/lealemb)
+- 📫 How to reach me: [**Connect**](mailto:lealemb84@gmail.com)
 - ⚡ Fun fact **I can debug code faster than I can find matching socks!**
 
 <h3 align="left">Connect with me:</h3>
