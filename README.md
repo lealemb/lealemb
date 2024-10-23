@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Fullstack Web Projects**
 
-- 🤝 I’m looking for help with **Improving Laravel API Development Skills**
+- 💬 Ask me about anything, I am happy to help
 
 - 👨‍💻 All of my projects are available at [**SeeMyProject**](https://github.com/lealemb)
 - 📫 How to reach me: [**Connect**](mailto:lealemb84@gmail.com)
