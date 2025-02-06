@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lealem</h1> 
+I'm a seasoned Full-Stack Developer passionate about building scalable web applications.  
+I focus on writing clean, efficient, and maintainable code.  
+Always eager to learn and adapt to new technologies.  
+Strong problem-solver who enjoys tackling complex challenges.  
+I thrive in collaborative environments and value teamwork.  
+Committed to delivering high-quality and impactful solutions. 🚀
 <h3 align="center"> Fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
