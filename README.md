@@ -20,8 +20,8 @@ Committed to delivering high-quality and impactful solutions. 🚀
 - 💬 Ask me about anything, I am happy to help
 
 - 👨‍💻 All of my projects are available at [**SeeMyProject**](https://github.com/lealemb)
-- 📫 How to reach me: [**Connect**](mailto:lealemb84@gmail.com)
-- 📫 How to reach me: [**Connect**](https://www.linkedin.com/in/lealem-birhanu/)
+- 📫 How to reach me on email: [**Connect**](mailto:lealemb84@gmail.com)
+- 📫 How to reach me on Linkedin: [**Connect**](https://www.linkedin.com/in/lealem-birhanu/)
 - ⚡ Fun fact **I can debug code faster than I can find matching socks!**
 
 <h3 align="left">Connect with me:</h3>
