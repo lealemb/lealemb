@@ -43,7 +43,7 @@ Committed to delivering high-quality and impactful solutions. 🚀
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
  ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
- ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+
 
 
 
