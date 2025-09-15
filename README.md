@@ -22,8 +22,6 @@ Committed to delivering high-quality and impactful solutions. 🚀
 - 👨‍💻 All of my projects are available at [**SeeMyProject**](https://github.com/lealemb)
 - 📫 How to reach me on email: [**Connect**](mailto:lealemb84@gmail.com)
 - 📫 How to reach me on Linkedin: [**Connect**](https://www.linkedin.com/in/lealem-birhanu/)
-- ⚡ Fun fact **I can debug code faster than I can find matching socks!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lealem-birhanu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lealem-birhanu/" height="30" width="40" /></a>
