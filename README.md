@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lealem</h1> 
 I'm a seasoned Full-Stack Developer passionate about building scalable web applications.  
 I focus on writing clean, efficient, and maintainable code.  
-Always eager to learn and adapt to new technologies.  
+Always eager to learn and adapt to new technologies. 
 Strong problem-solver who enjoys tackling complex challenges.  
 I thrive in collaborative environments and value teamwork.   
 Committed to delivering high-quality and impactful solutions. 🚀
