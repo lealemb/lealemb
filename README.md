@@ -13,7 +13,7 @@ Committed to delivering high-quality and impactful solutions. 🚀
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel** 
 
 - 👯 I’m looking to collaborate on **Open Source Fullstack Web Projects**
 
